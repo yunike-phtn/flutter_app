@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": "30",
+    "gender": "Male",
+    "email": "johndoe@gmail.com"
+  },
+  {
+    "firstName": "Yunike",
+    "lastName": "Wandasari",
+    "age": "23",
+    "gender": "Female",
+    "email": "yunike@gmail.com"
+  }
+]
